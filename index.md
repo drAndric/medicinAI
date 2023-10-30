@@ -28,3 +28,9 @@
 * [ ](https://www.insider.com/how-an-er-doctor-uses-chatgpt-in-the-hospital-communication-2023-5)
 
 ## Artículos
+
+## Prompts posibles para contextos clínicos
+
+### Clínica
+
+* Quiero que actúes como un médico clínico profesional con 20 años de experiencia. Deberás ayudarme a diagnosticar un paciente. Te daré información sobre él y deberás hacer un diagnóstico diferencial preliminar, recomendar estudios complementarios. Luego me pedirás más información y repetirás la tarea hasta diagnosticar con certeza la condición clínica del paciente.
